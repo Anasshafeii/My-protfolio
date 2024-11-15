@@ -159,7 +159,7 @@ export const projects = [
     description:
       "Modern YouTube Clone Application in React JS with Material UI 5",
     image:
-      "https://private-user-images.githubusercontent.com/120105238/386615009-47c73b32-2105-476a-9562-0abd36e6acba.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2Nzg4MjcsIm5iZiI6MTczMTY3ODUyNywicGF0aCI6Ii8xMjAxMDUyMzgvMzg2NjE1MDA5LTQ3YzczYjMyLTIxMDUtNDc2YS05NTYyLTBhYmQzNmU2YWNiYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExNVQxMzQ4NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZWIxNGVhNGQ0M2U3YjFlZGRhZTU4NjM5NjNkNWVkOGQwZmE0NzgyZjg3OTgwN2NjMzJiYjk0ZGE0N2JjODM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bRkJxbfC1NQKWmjGEqT8y5xsUVF7n6_V2q8N4et1bP4",
+      "https://github.com/user-attachments/assets/47c73b32-2105-476a-9562-0abd36e6acba",
     tags: ["React Js", "rapidapi", "mui"],
     category: "React & Next",
     github: "https://github.com/Anasshafeii/youtube-clone",
@@ -170,7 +170,7 @@ export const projects = [
     title: "product-builder",
     description: "Modern product-builder Application in React JS.",
     image:
-      "https://private-user-images.githubusercontent.com/120105238/386617168-5e04db24-8872-4f29-ae3d-5492a55f4c9d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2NzczNzUsIm5iZiI6MTczMTY3NzA3NSwicGF0aCI6Ii8xMjAxMDUyMzgvMzg2NjE3MTY4LTVlMDRkYjI0LTg4NzItNGYyOS1hZTNkLTU0OTJhNTVmNGM5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExNVQxMzI0MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZGI3Njc1NzM0Yjg5OTFlNTkyZjQ4OTZmYTcxNmE2N2NkMzBmY2U4NzFjNmFhMjIwNDVjOWRmNDY2NTlkMmNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.41UNuCnBpc1WIE516KekIR2_Sl8Q9r77AwNd1VAuHIE",
+      "https://github.com/user-attachments/assets/5e04db24-8872-4f29-ae3d-5492a55f4c9d",
     tags: ["React Js", "Typescript", "Tailwindcss", "Sass"],
     category: "React & Next",
     github: "https://github.com/Anasshafeii/product-builder",
@@ -193,7 +193,7 @@ export const projects = [
     description:
       "Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models, this tutorial covers it all..",
     image:
-      "https://private-user-images.githubusercontent.com/120105238/386621233-3809e848-4897-4d4c-95cb-d113a15bd0ee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2Nzc5ODQsIm5iZiI6MTczMTY3NzY4NCwicGF0aCI6Ii8xMjAxMDUyMzgvMzg2NjIxMjMzLTM4MDllODQ4LTQ4OTctNGQ0Yy05NWNiLWQxMTNhMTViZDBlZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExNVQxMzM0NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZGUyY2VkYzQ1NGRiYzI3OWRmOTg1ZjcxZmY0NmI4YTM2NzA1ZWI3YmJiN2E5Mzg4Yzk0Nzg0NWI3YjBjOGQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6fg2octJqXxOSxjlimM-F1QS1VKrjSKjCm298K2fccE",
+      "https://github.com/user-attachments/assets/3809e848-4897-4d4c-95cb-d113a15bd0ee",
     tags: ["ReactJs", "ThreeJs", "gsap"],
     category: "Landing Pages",
     github: "https://github.com/Anasshafeii/iphone-clone",
@@ -204,7 +204,7 @@ export const projects = [
     title: "hoobank",
     description: "Modern website using React.js & Tailwind CSS.",
     image:
-      "https://private-user-images.githubusercontent.com/120105238/386622603-2a01f0b6-a922-4eaf-8f4b-6cdcb5ad6af1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2NzgyOTEsIm5iZiI6MTczMTY3Nzk5MSwicGF0aCI6Ii8xMjAxMDUyMzgvMzg2NjIyNjAzLTJhMDFmMGI2LWE5MjItNGVhZi04ZjRiLTZjZGNiNWFkNmFmMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExNVQxMzM5NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZWQ5NjEzYzdiOTc4M2RmYmY1MWMwNDgwMTdjNmUxOTA1NGJmYjZmYzEyOGFiMzZlMDkwOWVjNmFiNjg4MDY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zAMJfHIm3apNw5iBcoyf-4gkXPHaZARPeSbRkAOJOrc",
+      "![HooBank - Google Chrome 11_15_2024 3_38_44 PM]([https://github.com/user-attachments/assets/2a01f0b6-a922-4eaf-8f4b-6cdcb5ad6af1](https://github.com/user-attachments/assets/2a01f0b6-a922-4eaf-8f4b-6cdcb5ad6af1))",
     tags: ["React Js", "Tailwindcss"],
     category: "Landing Pages",
     github: "https://github.com/Anasshafeii/hoobank/tree/main",
