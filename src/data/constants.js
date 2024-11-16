@@ -204,7 +204,7 @@ export const projects = [
     title: "hoobank",
     description: "Modern website using React.js & Tailwind CSS.",
     image:
-      "![HooBank - Google Chrome 11_15_2024 3_38_44 PM]([https://github.com/user-attachments/assets/2a01f0b6-a922-4eaf-8f4b-6cdcb5ad6af1](https://github.com/user-attachments/assets/2a01f0b6-a922-4eaf-8f4b-6cdcb5ad6af1))",
+      "https://github.com/user-attachments/assets/2a01f0b6-a922-4eaf-8f4b-6cdcb5ad6af1",
     tags: ["React Js", "Tailwindcss"],
     category: "Landing Pages",
     github: "https://github.com/Anasshafeii/hoobank/tree/main",
