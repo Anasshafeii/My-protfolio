@@ -2,7 +2,7 @@ export const Bio = {
   name: "Anas Desokeii",
   roles: ["Frontend  Developer"],
   description:
-    "I am an enthusiastic, detail-oriented junior front-end developer with proficient knowledge of HTML and CSS,Sass, Material Ui, JavaScript, as well as third-party libraries like React. I seek to utilize my technical skills and experience to provide value to my employer and contribute to successful projects today and in the future. I aim to take on new challenges and leverage my programming and debugging skills to develop new features and enhance the overall user experience.",
+    "I am an enthusiastic, detail-oriented front-end developer with proficient knowledge of HTML and CSS,Sass, Material Ui, JavaScript, as well as libraries like React. I seek to utilize my technical skills and experience to provide value to my employer and contribute to successful projects today and in the future. I aim to take on new challenges and leverage my programming and debugging skills to develop new features and enhance the overall user experience.",
   github: "https://github.com/Anasshafeii",
   resume:
     "https://drive.google.com/file/d/1DQP3vpw07gWQtuQ7xqbWfDJdWDc-Dpfj/view?usp=sharing",
