@@ -5,7 +5,7 @@ export const Bio = {
     "I am an enthusiastic, detail-oriented front-end developer with proficient knowledge of HTML and CSS,Sass, Material Ui, JavaScript, as well as libraries like React. I seek to utilize my technical skills and experience to provide value to my employer and contribute to successful projects today and in the future. I aim to take on new challenges and leverage my programming and debugging skills to develop new features and enhance the overall user experience.",
   github: "https://github.com/Anasshafeii",
   resume:
-    "https://drive.google.com/file/d/1DQP3vpw07gWQtuQ7xqbWfDJdWDc-Dpfj/view?usp=sharing",
+    "https://drive.google.com/file/d/1o3Lq_ibqlZV3bZbLcovMkMPoh-IahAZ3/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/anas-shafeii-324ba7256/",
   twitter: "https://twitter.com/Anas_Shafeii",
 };
